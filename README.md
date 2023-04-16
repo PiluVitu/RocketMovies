@@ -1,3 +1,49 @@
-# RocketMovie
+# Projeto Instituto NuBank
 
-- Aplicação para conseguir rastrear seus filmes assistidos e ter informações dele por meio de uma api de filmes
+- Projeto Onde vão ficar reunidos em uma pagina web todos os projetos do instituto Nu em parceria com a descomplica
+
+<p align="center">
+  <a href= "#"><img alt="Deploy Gif" src="assets/site-one-instituto-nu.gif" width="100%"></a>
+</p>
+
+## Sumário
+
+- [Home](#projeto-instituto-nubank)
+- [Front-End](#front-end)
+- [Back-End](#back-end)
+
+---
+
+### Front-End
+
+#### 📖 About
+
+- Projeto base para site básico onde você insere seu nome e ele exibe uma mensagem de boas vindas personalizada para você
+
+ **Obs:** Site do programa é bem mais simples, esse foi implementado uma verificação para o input, javascript interagindo com DOM somente pelo Js, switch de elementos depois de inserir o nome e uma interação de confirmação do botão apenas apertando espaço.
+
+#### 🚀 Tecnologias
+
+- Esse projeto foi desenvolvido com as seguintes tecnologias:
+  - HTML
+  - CSS
+  - JavaScript
+
+---
+
+### Back-End
+
+#### 📖 About
+
+- Projeto base para site básico onde você insere seu nome e ele exibe uma mensagem de boas vindas personalizada para você
+- **Obs:** Site do programa é bem mais simples, esse foi implementado uma verificação para o input, javascript interagindo com DOM somente pelo Js, switch de elementos depois de inserir o nome e uma interação de confirmação do botão apenas apertando espaço.
+
+#### 🚀 Tecnologias
+
+- Esse projeto foi desenvolvido com as seguintes tecnologias:
+  - HTML
+  - CSS
+  - JavaScript
+
+---
+<p align="center">Feito com ❤️ por <a href="https://piluvitu.dev">PiluVitu</a></p>
