@@ -15,6 +15,8 @@ export default createGlobalStyle`
 
     body {
       font-size: 1.6rem;
+      font-family: 'Roboto Slab', serif;
+
       background-color:${({ theme }) => theme.COLORS.BACKGROUND_900} ;
       
       color: ${({ theme }) => theme.COLORS.WHITE_400};
@@ -22,6 +24,7 @@ export default createGlobalStyle`
     }
 
     body, button, input, textarea {
+      font-family: 'Roboto Slab', serif;
       font-size: 1.6rem;
     }
 
@@ -31,7 +34,7 @@ export default createGlobalStyle`
 
     button, a {
       cursor: pointer;
-      transition: all 0.3;
+      transition: all 0.3s;
     }
     button:hover, a:hover {
     filter: brightness(0.9);
