@@ -3,7 +3,7 @@
 - Projeto desafio do explorer que consiste em um site onde pode-se cadastrar os filmes que ja foram assistidos pelo usuário.
 
 <p align="center">
-  <a href= "rocket-movies.piluvitu.dev"><img alt="Deploy Gif" src="./Assets/Gravação de tela de 2023-04-17 19-09-24.gif" width="100%"></a>
+  <a href= "https://rocket-movies.piluvitu.dev"><img alt="Deploy Gif" src="./Assets/Gravação de tela de 2023-04-17 19-09-24.gif" width="100%"></a>
 </p>
 
 ## Sumário
