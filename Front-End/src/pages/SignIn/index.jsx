@@ -3,7 +3,7 @@ import { Button } from '../../components/Button/index.jsx'
 import { MdOutlineEmail } from 'react-icons/md'
 import { BiLockAlt } from 'react-icons/bi'
 import { Input } from '../../components/Input/index.jsx'
-import { TextArea } from '../../components/TextArea'
+import { TextLink } from '../../components/TextLink'
 import backgroundImg from '../../assets/Background.png'
 
 export function SignIn() {
@@ -20,7 +20,7 @@ export function SignIn() {
 
         <Button title="Entrar" type="button" />
 
-        <TextArea to="/register" title="Criar conta" />
+        <TextLink to="/register" title="Criar conta" />
       </Form>
       <Background alt="Teatro" src={backgroundImg} />
     </Container>

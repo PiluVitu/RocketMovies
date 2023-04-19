@@ -4,7 +4,7 @@ import { MdOutlineEmail, MdPersonOutline } from 'react-icons/md'
 import { AiOutlineArrowLeft } from 'react-icons/ai'
 import { BiLockAlt } from 'react-icons/bi'
 import { Input } from '../../components/Input/index.jsx'
-import { TextArea } from '../../components/TextArea'
+import { TextLink } from '../../components/TextLink'
 import backgroundImg from '../../assets/Background.png'
 export function SignUp() {
   return (
@@ -26,8 +26,8 @@ export function SignUp() {
 
         <Button title="Entrar" type="button" />
 
-        <TextArea
-          to="/"
+        <TextLink
+          to={'/login'}
           icon={AiOutlineArrowLeft}
           title="Voltar para o login"
         />
